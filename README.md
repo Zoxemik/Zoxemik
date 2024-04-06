@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on Game Projects
-- 📫 You can reach me by a mail kacper.wajda.dev@gmail.com
+- 📫 You can reach me by a mail 
 
 <!---
 Zoxemik/Zoxemik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
