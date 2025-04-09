@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @Zoxemik
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unreal Engine
-- 💞️ I’m looking to collaborate on Game Projects
-- 📫 You can reach me by a mail 
+# 👋 Hi, I'm @Zoxemik
 
-<!---
-Zoxemik/Zoxemik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**🎓 Computer Science Student** | **🛠️ IT Technician** | **🇵🇱 Based in Poland**  
+**🔮 Game Dev Focus:** Unreal Engine (C++) | Unity | Roguelikes | Horror/Soulslikes  
+
+---
+
+## 🎮 **My Game Dev Journey**
+
+### 🧒 **Early Days (Scratch → Unreal)**
+- Built a **Pac-Man clone in Scratch** (elementary school project).  
+- Jumped into **Unreal Engine 4.22** at age ~14 (made a simple shooter with AI/particles).  
+- **"It was too hard back then… but I still have the project!"**  
+
+### ⚔️ **Unity Era (Team Competition)**
+- Served as **lead programmer** in a national game dev tournament.  
+- Developed a **2D roguelike** – lost in quarter-finals *(but learned a ton)*.  
+
+### 📚 **Education Break**
+- Earned my **IT Technician diploma** (focused on programming, networks, databases).  
+
+### 🔥 **Current Unreal Engine Obsession** (One year)  
+- Completed **Stephen Ulibarri’s Unreal C++ course** (RIP deleted project 😅).  
+- Built a **Custom C++ Movement System** (Lyra-inspired, animation-heavy).
+- Crafting a **2D endless runner** (3K+ lines in 3 weeks, *Donkey Kong Country* vibes).  
+
+---
+
+## 🛠️ **Skills & Tools**
+```csharp
+Primary Stack:  Unreal Engine (C++) | Blueprints | Unity | Git 
+Secondary:      JavaScript | SQL | Networking Basics | Software Engineering
+```
