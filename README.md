@@ -22,7 +22,7 @@
 ### 🔥 **Current Unreal Engine Obsession** (One year)  
 - Completed **Stephen Ulibarri’s Unreal C++ course** (RIP deleted project 😅).  
 - Built a **Custom C++ Movement System** (Lyra-inspired, animation-heavy).
-- Crafting a **2D endless runner** (3K+ lines in 3 weeks, *Donkey Kong Country* vibes).  
+- Crafting a **2D endless runner** (*Donkey Kong Country* vibes).  
 
 ---
 
