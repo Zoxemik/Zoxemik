@@ -29,7 +29,7 @@ I’m a developer focused on **Unreal Engine C++**, multiplayer architecture, an
 | Plugin                         | Description |
 |-------------------------------|-------------|
 | [`IslandGeneratorPlugin`](https://github.com/zoxemik/IslandGeneratorPlugin) | Procedural island generation using Geometry Script and seed-based noise. |
-| [`MultiplayerPlugin`](https://github.com/zoxemik/MultiplayerPlugin) | Modular session/matchmaking plugin supporting EOS and Steam. |
+| [`MultiplayerPlugin`](https://github.com/zoxemik/MultiplayerPlugin) | Modular session/matchmaking plugin supporting LAN and Steam. |
 | [`TopDownMovementPlugin`](https://github.com/zoxemik/TopDownMovementPlugin) | Smooth top-down camera and input system with edge scrolling and zoom. |
 | [`Skateboard3Server`](https://github.com/zoxemik/Skateboard3Server) | Multiplayer server prototype compatible with **Skate 3**, based on reverse-engineered Blaze protocol. |
 
@@ -49,7 +49,7 @@ I’m a developer focused on **Unreal Engine C++**, multiplayer architecture, an
 ### 🧒 Getting Started
 - Scratch → Pac-Man clone  
 - Unreal Engine 4.22 @ 14 y/o – basic shooter with AI and VFX  
-- Unity – 2D roguelike for national team competition (quarter-finalist)
+- Unity – 2D metroidvania for national team competition (quarter-finalist)
 
 ---
 
