@@ -1,54 +1,85 @@
-# 👋 Hi, I'm @Zoxemik
+# 👋 @Zoxemik
 
-**🎓 2nd-Year Computer Science Student** | **🛠️ IT Technician** | **🇵🇱 Based in Poland**  
-**🚀 Main Stack:** Unreal Engine **C++** (advanced) | Unity | Next.js (React)
-
-I specialize in high-performance **C++ gameplay systems** and **multiplayer plugin development** for **Unreal Engine**. My current focus is on creating modular, scalable systems for **RTS**, **mini-golf**, and **party-style multiplayer games**. I also maintain production-grade web applications in **Next.js**, contribute to game jams, and actively improve my algorithmic skills on [Codeforces](https://codeforces.com/profile/zoxemo).
-
----
-
-## 🎮 My Game Dev Journey
-
-### 🧒 Foundations
-- Built a **Pac-Man clone** in Scratch as an introductory project.
-- Started using **Unreal Engine 4.22** at age ~14; created a third-person shooter with basic AI and VFX.
-
-### ⚔️ Team-Based Development
-- Served as **lead programmer** in a national game dev competition.
-- Developed a **2D roguelike** using Unity; reached the quarter-finals.
-
-### 📚 Education
-- Earned a professional **IT Technician diploma**, with training in software development, networking, and databases.
-- Currently in **year 2** of a **Computer Science degree**, focusing on systems programming and software architecture.
-
-### 🔥 Current Unreal Engine Focus – Multiplayer Systems
-- Completed **Stephen Ulibarri’s Unreal C++ course**.
-- Developed a **Lyra-inspired C++ Movement System** with animation integration.
-- Prototyping multiple multiplayer game types:
-  - **RTS**: deterministic logic, pathfinding replication, network stability.
-  - **Mini-Golf**: synced physics, custom matchmaking, cross-platform lobby.
-  - **Party Game Framework**: minigame hot-swapping, scalable replication helpers.
-- Developing **Unreal Engine plugins** for:
-  - Session and matchmaking management
-  - Replication utilities
-  - EOS and Steam backend support
-
-### 🏆 Game Jams
-- Regular participant in game jams such as **Ludum Dare**, **GMTK Jam**, and university-hosted events.
-- All projects available at: [**zoxemik.itch.io**](https://zoxemik.itch.io)
+**🎓 2nd-Year Computer Science Student**  
+**🛠️ Certified IT Technician**  
+**📍 Based in Poland**
 
 ---
 
-## 🌐 Web Development & Competitive Programming
+## 🧩 Summary
 
-- Developed and deployed full-stack websites using **Next.js**, including:
-  - [**motoghostsclub.org**](https://www.motoghostsclub.org) – club website with responsive UI and API integration.
-- Actively solving algorithmic problems on [**Codeforces**](https://codeforces.com/profile/zoxemo).
+I’m a developer focused on **Unreal Engine C++**, multiplayer architecture, and real-time gameplay systems. I build modular plugins, prototype networked games, and actively contribute to game jams and open-source tooling. Outside of game development, I also work on web applications and competitive programming.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🧠 Technical Focus
+
+- **Game Development**: Unreal Engine (C++), Unity, Construct 3  
+- **Multiplayer Systems**: replication, matchmaking, session management (Steam, EOS)  
+- **Plugin Design**: modular Unreal Engine tools for rapid integration  
+- **Web Development**: Next.js (React), full-stack deployment, UI/UX  
+- **Competitive Programming**: Algorithms & data structures via [Codeforces](https://codeforces.com/profile/zoxemo)  
+
+---
+
+## 🛠️ Projects & Tools
+
+### 🔌 Unreal Engine Plugins
+
+| Plugin                         | Description |
+|-------------------------------|-------------|
+| [`IslandGeneratorPlugin`](https://github.com/zoxemik/IslandGeneratorPlugin) | Procedural island generation using Geometry Script and seed-based noise. |
+| [`MultiplayerPlugin`](https://github.com/zoxemik/MultiplayerPlugin) | Modular session/matchmaking plugin supporting EOS and Steam. |
+| [`TopDownMovementPlugin`](https://github.com/zoxemik/TopDownMovementPlugin) | Smooth top-down camera and input system with edge scrolling and zoom. |
+| [`Skateboard3Server`](https://github.com/zoxemik/Skateboard3Server) | Multiplayer server prototype compatible with **Skate 3**, based on reverse-engineered Blaze protocol. |
+
+---
+
+## 🎮 Game Dev Timeline
+
+### 🎯 Core Projects
+- **Multiplayer RTS** – deterministic simulation with optimized pathfinding replication  
+- **Mini-Golf Multiplayer** – cross-platform physics syncing and lobby system  
+- **Party Game Framework** – hot-swappable game modes and modular replication
+
+### 🎓 Education
+- **IT Technician Diploma** – networking, databases, software fundamentals  
+- **B.Sc. Computer Science (Year 2)** – low-level systems, algorithms, software engineering
+
+### 🧒 Getting Started
+- Scratch → Pac-Man clone  
+- Unreal Engine 4.22 @ 14 y/o – basic shooter with AI and VFX  
+- Unity – 2D roguelike for national team competition (quarter-finalist)
+
+---
+
+## 🧪 R&D & Exploration
+
+- Reverse-engineering legacy protocols (e.g. Blaze Engine for EA titles)  
+- Experimenting with browser-friendly game dev via **Construct 3**  
+- Custom serialization workflows in Unreal's NetDriver layer  
+
+---
+
+## 🏆 Game Jam Participation
+
+- Regularly join **Ludum Dare**, **GMTK**, and university jams  
+- Browse released entries: [**itch.io/zoxemik**](https://zoxemik.itch.io)
+
+---
+
+## 🌐 Web Development
+
+- Full-stack websites with **Next.js**, React, and Vercel  
+- Example: [**motoghostsclub.org**](https://www.motoghostsclub.org) – club homepage with responsive layout and backend integration
+
+---
+
+## 🔧 Skills Overview
 
 ```csharp
-Primary:     Unreal Engine (Advanced C++), Multiplayer, Blueprints, Git
-Secondary:   Unity, Next.js / React, JavaScript / TypeScript, SQL, Networking Basics
+Languages:     C++, C#, TypeScript, JavaScript, SQL
+Engines:       Unreal Engine 5, Unity, Construct 3
+Web:           Next.js, React, REST APIs, TailwindCSS
+Dev Tools:     Git, Vercel, Visual Studio, GDB, Postman
+Systems:       Multiplayer Architecture, Plugins, NetSerialization
