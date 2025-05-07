@@ -15,7 +15,7 @@ I’m a developer focused on **Unreal Engine C++**, multiplayer architecture, an
 ## 🧠 Technical Focus
 
 - **Game Development**: Unreal Engine (C++), Unity, Construct 3  
-- **Multiplayer Systems**: replication, matchmaking, session management (Steam, EOS)  
+- **Multiplayer Systems**: replication, matchmaking, session management (Steam, LAN)  
 - **Plugin Design**: modular Unreal Engine tools for rapid integration  
 - **Web Development**: Next.js (React), full-stack deployment, UI/UX  
 - **Competitive Programming**: Algorithms & data structures via [Codeforces](https://codeforces.com/profile/zoxemo)  
