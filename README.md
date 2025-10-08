@@ -1,6 +1,6 @@
 # 👋 @Zoxemik
 
-**🎓 2nd-Year Computer Science Student**  
+**🎓 3rd-Year Computer Science Student**  
 **🛠️ Certified IT Technician**  
 **📍 Based in Poland**
 
